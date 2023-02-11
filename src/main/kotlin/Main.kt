@@ -27,7 +27,7 @@ fun main(args: Array<String>) {
     //Outputs
     println("Area of Ellips $area")
     println("Per of Ellips $per")
-----------------------------------------------------------------------------------------------------------------------
+//----------------------------------------------------------------------------------------------------------------------
 // 02 - Conditional Branching
     /* Design a program in which the user will use the motor capacity of car (CC), then the program prints the due tax ()
         According to several measures that do not need to be listed here.
@@ -69,8 +69,7 @@ fun main(args: Array<String>) {
         "Summation = $sum"
     )
 //----------------------------------------------------------------------------------------------------------------------
-
- Salary Task
+    //Salary Task
 
     var baseSlary = 50000.0;
     var taxPercent = 0.2;
@@ -88,7 +87,7 @@ fun main(args: Array<String>) {
 
     print("Your Salary After incenives and Taxaion is Equal: ${baseSlary - (baseSlary * taxPercent) + incentive} \n \n Target_Details :- \n \n  ")
 
-//02.02 Target task
+//  Target task
 
     var RevenueOfMonths = 20000.0
     var targetPercent = 0.05
